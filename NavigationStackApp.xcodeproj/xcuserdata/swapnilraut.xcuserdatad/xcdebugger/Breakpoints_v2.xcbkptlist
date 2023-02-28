@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9A8F96D8-4F82-4C60-A73D-D610D0D32EDB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3AFD37E-5103-4242-8EAF-2889017C6E58"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NavigationStackApp/Home/Models.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "Country"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0EFB8AD-41CA-4A16-B8C1-F44B88DA1965"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NavigationStackApp/Home/Router.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "Router"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F0EFB8AD-41CA-4A16-B8C1-F44B88DA1965 - 5092e2815e681f5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NavigationStackApp.Router.deinit"
+                  moduleName = "NavigationStackApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swapnilraut/Documents/Swapnil/R&amp;D%20Projects/NavigationStackApp/NavigationStackApp/Home/Router.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F0EFB8AD-41CA-4A16-B8C1-F44B88DA1965 - dd4d191d6e7da75a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NavigationStackApp.Router.__deallocating_deinit"
+                  moduleName = "NavigationStackApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swapnilraut/Documents/Swapnil/R&amp;D%20Projects/NavigationStackApp/NavigationStackApp/Home/Router.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "F0EFB8AD-41CA-4A16-B8C1-F44B88DA1965 - f11cc193ec9e48e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NavigationStackApp.Router.__allocating_init() -&gt; NavigationStackApp.Router"
+                  moduleName = "NavigationStackApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swapnilraut/Documents/Swapnil/R&amp;D%20Projects/NavigationStackApp/NavigationStackApp/Home/Router.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "F0EFB8AD-41CA-4A16-B8C1-F44B88DA1965 - adabf7cc4050c79d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NavigationStackApp.Router.init() -&gt; NavigationStackApp.Router"
+                  moduleName = "NavigationStackApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swapnilraut/Documents/Swapnil/R&amp;D%20Projects/NavigationStackApp/NavigationStackApp/Home/Router.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1170A860-A93F-4FD1-BFF4-B2B83148A968"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NavigationStackApp/NavigationStackAppApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
